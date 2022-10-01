@@ -1,0 +1,22 @@
+{
+  "name": "dl-file-new",
+  "version": "1.0.0",
+  "description": "Generic file download utility with ts support. (download-file fork)",
+  "main": "./index.js",
+  "author": "Sr Izan",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "download",
+    "file",
+    "url",
+    "https",
+    "fork"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
