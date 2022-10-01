@@ -1,6 +1,6 @@
 {
   "name": "dl-file-new",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generic file download utility with ts support. (download-file fork)",
   "main": "./index.js",
   "author": "Sr Izan",
