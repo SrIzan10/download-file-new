@@ -4,6 +4,7 @@
   "description": "Generic file download utility with ts support. (download-file fork)",
   "main": "./index.js",
   "author": "Sr Izan",
+  "repository": {"url": "https://github.com/SrIzan10/download-file-new"},
   "license": "ISC",
   "dependencies": {
     "mkdirp": "^0.5.0"
